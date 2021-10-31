@@ -1,0 +1,10 @@
+{
+	100001:{
+		"android":true,
+		"ios":true,
+	},
+	100002:{
+		"android":true,
+		"ios":true,
+	}
+}
